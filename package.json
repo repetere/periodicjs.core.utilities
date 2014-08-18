@@ -20,7 +20,7 @@
 	},
 	"dependencies": {
 		"fs-extra": "0.9.1",
-		"utils-merge": "1.0.0",
+		"utils-merge": "1.0.0"
 	},
 	"devDependencies": {
 		"chai": "1.9.1",
