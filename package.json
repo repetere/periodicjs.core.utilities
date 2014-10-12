@@ -1,6 +1,6 @@
 {
 	"name": "periodicjs.core.utilities",
-	"description": "Customizable CMS platform",
+	"description": "A group of utility functions for restarting periodic's express application and helper functions to manipulate strings and other data structures",
 	"version": "1.90.10",
 	"main": "index.js",
 	"engines": {
