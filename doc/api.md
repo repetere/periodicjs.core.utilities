@@ -58,7 +58,7 @@ shorthand method for running shell commands
 **Returns**: `function` - callback(response)  
 <a name="Utilities#restart_app"></a>
 ##utilities.restart_app(options)
-shorthand method for restarting periodic by updating the node script's watch file content/extensions/restart.json
+shorthand method for restarting periodic by updating the node script's watch file content/config/restart.json
 
 **Params**
 
