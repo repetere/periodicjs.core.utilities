@@ -1,7 +1,7 @@
 {
 	"name": "periodicjs.core.utilities",
 	"description": "A group of utility functions for restarting periodic's express application and helper functions to manipulate strings and other data structures",
-	"version": "4.1.0",
+	"version": "4.1.01",
 	"main": "index.js",
 	"engines": {
 		"node": ">=0.10.x"
