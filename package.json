@@ -1,49 +1,82 @@
 {
-	"name": "periodicjs.core.utilities",
-	"description": "A group of utility functions for restarting periodic's express application and helper functions to manipulate strings and other data structures",
-	"version": "4.1.01",
-	"main": "index.js",
-	"engines": {
-		"node": ">=0.10.x"
-	},
-	"author": {
-		"name": "Yaw Joseph Etse",
-		"email": "yaw.etse@gmail.com",
-		"url": "http://about.me/yawjosephetse"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/typesettin/periodicjs.core.utilities.git"
-	},
-	"scripts": {
-		"test": "mocha -R spec --recursive"
-	},
-	"dependencies": {
-		"fs-extra": "0.12.0",
-		"utils-merge": "1.0.0"
-	},
-  "devDependencies": {
-    "chai": "1.10.0",
-    "grunt": ">=0.4.5",
-    "grunt-contrib-jshint": ">=0.4.3",
-    "grunt-contrib-watch": ">=0.4.1",
-    "grunt-jsbeautifier": ">=0.2.7",
-    "grunt-jsdoc": "~0.5.7",
-    "jsdoc": "3.3.0-alpha5",
-    "grunt-newer": ">=0.7.0",
-    "grunt-simple-mocha": ">=0.4.0",
-    "jsdoc": "3.3.0-alpha10",
-    "mocha": "2.0.1"
+  "name": "periodicjs.core.utilities",
+  "description": "A group of utility functions for restarting periodic's express application and helper functions to manipulate strings and other data structures",
+  "version": "5.9.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.x"
   },
-	"keywords": [
-		"content management framework",
-		"typeset",
-		"wysiwyg",
-		"ui manager",
-		"CMS",
-		"CDS",
-		"Content Delivery System",
-		"Content Management System",
-		"Periodic Decoupled Framework"
-	]
+  "author": {
+    "name": "Yaw Joseph Etse",
+    "email": "yaw.etse@gmail.com",
+    "url": "http://about.me/yawjosephetse"
+  },
+  "contributors": [
+    {
+      "name": "Jan Bialostok",
+      "email": "janbialostok@gmail.com",
+      "url": "https://github.com/janbialostok"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/typesettin/periodicjs.core.utilities.git"
+  },
+  "scripts": {
+    "test": "mocha -R spec --recursive"
+  },
+  "dependencies": {
+    "fs-extra": "^0.20.1",
+    "utils-merge": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jsbeautifier": "^0.2.10",
+    "grunt-jsdoc": "^0.6.7",
+    "grunt-newer": "^1.1.1",
+    "grunt-simple-mocha": "^0.4.0",
+    "jsdoc": "^3.3.2",
+    "mocha": "^2.2.5"
+  },
+  "keywords": [
+    "content management framework",
+    "typeset",
+    "wysiwyg",
+    "ui manager",
+    "CMS",
+    "CDS",
+    "Content Delivery System",
+    "Content Management System",
+    "Periodic Decoupled Framework"
+  ],
+  "gitHead": "1b9d0900180f67c679a1bb33888f3f35b8461c06",
+  "bugs": {
+    "url": "https://github.com/typesettin/periodicjs.core.utilities/issues"
+  },
+  "homepage": "https://github.com/typesettin/periodicjs.core.utilities#readme",
+  "_id": "periodicjs.core.utilities@4.1.1",
+  "_shasum": "26139a37fddd1bf6f4df8f1a8a417de09dd15d74",
+  "_from": "periodicjs.core.utilities@>=4.1.1 <5.0.0",
+  "_npmVersion": "2.9.0",
+  "_nodeVersion": "0.10.31",
+  "_npmUser": {
+    "name": "yawetse",
+    "email": "yaw.etse@gmail.com"
+  },
+  "dist": {
+    "shasum": "26139a37fddd1bf6f4df8f1a8a417de09dd15d74",
+    "tarball": "http://registry.npmjs.org/periodicjs.core.utilities/-/periodicjs.core.utilities-4.1.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "yawetse",
+      "email": "yaw.etse@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/periodicjs.core.utilities/-/periodicjs.core.utilities-4.1.1.tgz",
+  "readme": "ERROR: No README data found!"
 }
