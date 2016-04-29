@@ -1,7 +1,7 @@
 {
   "name": "periodicjs.core.utilities",
   "description": "A group of utility functions for restarting periodic's express application and helper functions to manipulate strings and other data structures",
-  "version": "6.1.0",
+  "version": "6.1.1",
   "main": "index.js",
   "engines": {
     "node": "^6.x"
@@ -26,7 +26,6 @@
     "test": "mocha -R spec --recursive"
   },
   "dependencies": {
-    "utils-merge": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^3.0.0",
